@@ -16,3 +16,7 @@ In the timecard file you will be entering your name on the line that corresponds
 	<li>Merge this branch with the master document
 	<li>Delete your branch now that it has been merged.
 </ul>
+
+make an issue 
+add a label
+assign the issue to themselves 
