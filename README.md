@@ -5,7 +5,7 @@ In the timecard file you will be entering your name on the line that corresponds
 
 # Instructions
 <ul>
-	<li>Start by opening the timecardreport file and inputting your name on the correct line.
+	<li>Start by opening the timecardreport file and inputting your name on the correct line (the date you submitted your timecard)
 	<li>At the bottom of the page choose "Create a new branch for this commit and start a pull request" and add a description to your commit
 	<ul>
 		<li>This will not yet edit the original document but create a ‘branch’ for you to edit further then merge back with the master file when ready. 
