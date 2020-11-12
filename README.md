@@ -4,7 +4,7 @@ The following is an exercise in learning to use a code repository.
 Assign yourself to the issue with your name. Then, in the timecard file you will be entering your name on the line that corresponds with the date that you have submitted your timecard. Once complete, you will close the issue.
 
 # Instructions
-<ul>
+<ol>
 	<li>Start by finding the issue with your name on it 
 		<ul>
 		<li>Assign it to yourself
@@ -20,4 +20,4 @@ Assign yourself to the issue with your name. Then, in the timecard file you will
 	<li>Merge this branch with the master document
 	<li>Delete your branch now that it has been merged
 	<li>Go back to Issues and close your issue to mark it as complete
-</ul>
+</ol>
